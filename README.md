@@ -1,1 +1,7 @@
-# spam-email-detector
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+seaborn
